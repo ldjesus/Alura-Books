@@ -1,0 +1,10 @@
+.icones{
+    display: flex;
+    align-items: center;
+  }
+  
+  .icone{
+    margin-right: 45px;
+    width: 25px;
+    cursor: pointer;
+  }
